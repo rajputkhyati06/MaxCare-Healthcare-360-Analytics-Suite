@@ -92,4 +92,4 @@ Healthcare_Analytics_Project/
 *AKTU / RVIT (2023–2027 Batch)*  
 - 💼 **LinkedIn:** [linkedin.com/in/khyati-rajput](https://linkedin.com)
 - 🐙 **GitHub:** [github.com/khyati-rajput](https://github.com)
-- 📧 **Email:** rajputkhyati@gmail.com
+- 📧 **Email:** rajputkhyati06@gmail.com
